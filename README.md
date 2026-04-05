@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-satyaput4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyaput4321@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Pune%2C%20India-blueviolet?style=for-the-badge)](https://maps.google.com/?q=Pune,India)
 [![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge&logo=clockify&logoColor=white)](.)
-[![Profile Views](https://komarev.com/ghpvc/?username=satyajeet-rajput&color=blueviolet&style=for-the-badge&label=Profile+Views)](.)
+
 
 </div>
 
