@@ -124,16 +124,11 @@ Automation test architect with expertise in Playwright, Selenium, and RestAssure
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   🌐 DOMAINS TESTED                          ║
-╠══════════════╦════════════════════╦═════════════════════════╣
-║  ✈️ AIRLINE   ║   🚂 RAILWAYS      ║   🌍 TRAVEL & TOURISM   ║
-╠══════════════╬════════════════════╬═════════════════════════╣
-║   FINNAIR    ║     Eurostar       ║         TTC             ║
-║   AMADEUS    ║                    ║                         ║
-╚══════════════╩════════════════════╩═════════════════════════╝
-```
+| 🌐 **Category** | 🌐 **Domains Tested** |
+|---|---|
+| ✈️ **Airline** | FINNAIR, AMADEUS |
+| 🚂 **Railways** | Eurostar |
+| 🌍 **Travel & Tourism** | TTC |
 
 </div>
 
