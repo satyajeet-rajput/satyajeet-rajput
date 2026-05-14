@@ -3,12 +3,13 @@
 <!-- ANIMATED BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyajeet%20Rajput&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Automation%20Test%20Engineer%20%7C%20QA%20Architect&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🎭+Playwright+%7C+Selenium+Automation+Expert;🔗+REST+API+Testing+with+RestAssured;⚡+CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;🤖+GenAI-Powered+Test+Optimization;✈️+Airline+%7C+Railway+%7C+Travel+Domain+QA" alt="Typing SVG" />
 </a>
+-->
 
-<br/>
+
 
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyajeet%20Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyajeet-rajput-183058205)
@@ -23,18 +24,9 @@
 
 ## 🧬 About Me
 
-```javascript
-const satyajeet = {
-  role        : "Senior Test Engineer @ Coforge",
-  experience  : "5 Years in QA & Test Automation",
-  location    : "Pune, India 🇮🇳",
-  domains     : ["✈️ Airline", "🚂 Railway", "🌍 Travel & Tourism"],
-  expertise   : ["Playwright", "Selenium", "RestAssured", "CI/CD"],
-  superpower  : "Reducing manual testing by 70% with smart automation 🚀",
-  currentlyOn : "GenAI-powered test optimization & self-healing locators 🤖",
-  motto       : "Quality is not an act, it is a habit — Aristotle"
-};
-```
+**Senior Test Engineer @ Coforge** | **5 Years in QA & Test Automation**
+
+Automation test architect with expertise in Playwright, Selenium, and RestAssured. Specialized in airline, railway, and travel domain testing. Passionate about reducing manual testing effort and implementing GenAI-powered testing solutions.
 
 ---
 
