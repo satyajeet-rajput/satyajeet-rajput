@@ -167,7 +167,39 @@ Automation test architect with expertise in Playwright, Selenium, and RestAssure
   <img src="https://raw.githubusercontent.com/satyajeet-rajput/satyajeet-rajput/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
-> ⚙️ *To enable the snake animation, set up the [GitHub Snake Action](https://github.com/Platane/snk) in your repo's workflow.*
+### Setup Instructions
+
+**Install the snake animation package:**
+```bash
+npx generate-snake-animation@3 --username satyajeet-rajput --output snake.svg
+```
+
+**Or use Node.js code:**
+```javascript
+import { generateSnakeAnimation } from "generate-snake-animation";
+
+const outputs = [
+  {
+    format: "svg",
+    drawOptions: {
+      // customize options here
+    },
+  },
+];
+
+const results = await generateSnakeAnimation(
+  {
+    platform: "github",
+    username: "satyajeet-rajput",
+    githubToken: process.env.GITHUB_TOKEN,
+  },
+  outputs,
+);
+
+fs.writeFileSync("snake.svg", results[0]);
+```
+
+> ⚙️ *Set up the [GitHub Snake Action](https://github.com/Platane/snk) workflow for automatic updates.*
 
 ---
 
